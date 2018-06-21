@@ -1,0 +1,14 @@
+.logoSlide {
+    height: 64px;
+    display: flex;
+    line-height: 64px;
+    padding-left: 20px;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    overflow: hidden;
+}
+.logoImg {
+    width: 20px;
+    height: 20px;
+    margin-top: 22px;
+}
